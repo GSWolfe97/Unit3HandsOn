@@ -2,7 +2,7 @@
 Write a program that obtains the execution time of selection sort, radix sort, bubble sort, merge sort, quick sort, and heap sort for input size 50000, 100,000, 150,000, 200,000, 250,000, and 300,000.
 
 ## Example Output
-![Sample Output](ReadMe.png)
+![Sample Output](ReadMe.PNG)
 
 ## Analysis Steps
 
